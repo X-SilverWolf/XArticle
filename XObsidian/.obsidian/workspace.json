@@ -4,22 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "1ec287dcc6fa2f21",
+        "id": "d8357af0e2dbf775",
         "type": "tabs",
         "children": [
           {
-            "id": "84b46634a65f709f",
+            "id": "34240f223cacf2b9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "bases",
               "state": {
-                "path": "/"
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "XObsidian"
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "007256cf1737eb7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/计划导览.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "计划导览"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,7 @@
             }
           },
           {
-            "id": "28ecd62b066e292a",
+            "id": "e18d5bd6eaef2516",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,13 +218,67 @@
               "icon": "fanyi_youdao",
               "title": "Fanyi Youdao"
             }
+          },
+          {
+            "id": "2803745a8f958c87",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "f63b80ab10992a37",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "4e4a948349f02a1d",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "zh-cn",
+                "translation_service": "fanyi_youdao",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "fanyi_youdao",
+              "title": "Fanyi Youdao"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +295,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84b46634a65f709f",
+  "active": "e18d5bd6eaef2516",
   "lastOpenFiles": [
-    "未命名.md",
+    "Excalidraw/Drawing 2026-01-31 00.59.46.excalidraw.md",
+    "Excalidraw/计划导览.md",
     "未命名.base",
+    "未命名.md",
     "test.md",
     "Excalidraw/Drawing 2026-01-19 23.27.19.excalidraw.md",
     "Excalidraw",
