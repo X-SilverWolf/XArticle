@@ -11,10 +11,12 @@
             "id": "84b46634a65f709f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "XObsidian"
             }
           }
         ]
@@ -71,7 +73,7 @@
             }
           },
           {
-            "id": "6c14c009d851218f",
+            "id": "28ecd62b066e292a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -208,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +227,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c14c009d851218f",
+  "active": "84b46634a65f709f",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名.base",
     "test.md",
     "Excalidraw/Drawing 2026-01-19 23.27.19.excalidraw.md",
     "Excalidraw",
@@ -235,7 +239,6 @@
     "Untitled.md",
     "Vault.md",
     "欢迎.md",
-    "创建链接.md",
-    "未命名.base"
+    "创建链接.md"
   ]
 }
